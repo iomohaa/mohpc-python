@@ -1,0 +1,17 @@
+= MOHPC Python Bindings
+Author Ludovic
+
+== Introduction
+
+This is the python bindings for the link:https://github.com/moh-rises/mohpc[MOHPC] library.
+
+== Requirements
+
+- CMake 3.8 or higher
+- link:https://github.com/moh-rises/mohpc[MOHPC] library compiled and installed
+- link:https://github.com/pybind/pybind11[pybind11] library compiled and installed
+- A compiler that supports C++17 (Visual Studio 2019)
+
+== TODO
+
+This library is under construction and is at its beginning.
